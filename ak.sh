@@ -1,3 +1,3 @@
-mkdir -p /var/lib/jenkins/cc.txt
+mkdir -p /var/lib/jenkins/dd.txt
 
 
