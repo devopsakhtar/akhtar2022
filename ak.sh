@@ -1,3 +1,3 @@
-mkdir -p /var/lib/jenkins/aa.txt
+mkdir -p /var/lib/jenkins/bb.txt
 
 
