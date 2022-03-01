@@ -1,2 +1,3 @@
-mkdir -p /home/ubuntu/akhtarfolder
+mkdir -p /var/lib/jenkins/akhtar.txt
+
 
